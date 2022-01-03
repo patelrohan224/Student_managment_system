@@ -1,8 +1,8 @@
 Links
 </br>
-<a href="https://students-mng-rohanpatel.vercel.app/" target="_blank" >Frontend</a>
+<a href="https://students-mng-rohanpatel.vercel.app/" target=_blank >Frontend</a>
 </br>
-<a href="https://ssmgmntsystm.herokuapp.com/" target="_blank" >backend</a>
+<a href="https://ssmgmntsystm.herokuapp.com/" target=_blank >backend</a>
 
 
 # Student_managment_system
