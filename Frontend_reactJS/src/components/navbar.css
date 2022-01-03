@@ -1,0 +1,144 @@
+.navbar{
+    height: 37px;
+    width: 98%;
+    padding: 1%;
+    justify-content: space-between;
+    background-color: rgba(0,0,0,.85);
+    position: fixed;
+    z-index: 1;
+}
+.boddy-div{
+    display: flex;
+    flex-direction: row;
+    padding-top: 5rem;
+}
+.contest{
+    width: 40%;
+}
+.mAin-contest{
+    display:flex;
+    flex-direction: column;
+    width: 60%;
+}
+.contest2{
+    width: 100%;
+    height: 600px;
+    overflow-y: scroll;
+}
+.contest3{
+    width: 100%;
+}
+::-webkit-scrollbar-track { border-radius: 10px; height: 100px;}
+::-webkit-scrollbar { width: 5px;}
+::-webkit-scrollbar-thumb {background: rgb(123, 0, 255); border-radius: 10px;}
+::-webkit-scrollbar-thumb:hover {background: #8300b3; }
+.conts-div{
+    width: 60%;
+    padding: 1% 2%;
+    margin: 1% 20%;
+    background-color: #fff;
+    max-height: 200px;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid #f0f0f0;
+}
+.conts2-div{
+    width: 60%;
+    padding: 1% 2%;
+    margin: 1% 20%;
+    background-color: #fff;
+    max-height: 200px;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid #f0f0f0;
+}
+.conts-div:hover{
+    width: 60%;
+    padding: 1% 2%;
+    margin: 1% 20%;
+    background-color: #fff;
+    max-height: 200px;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid #f0f0f0;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
+}
+.type{
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+    text-align: left;
+    font-size: 25px;
+    font-weight: 400;
+}
+.title{
+    padding: 3% 0%;
+    margin: 0%;
+    width: 100%;
+    text-align: left;
+    
+        font-size: 17px;
+    font-weight: 400;
+}
+.deadline{
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+    text-align: left;
+    font-size: 14px;
+    font-weight: 400;
+}
+.time{
+    padding:0%;
+    margin: 0%;
+    width: 100%;
+    text-align: right;
+    
+        font-size: 17px;
+    font-weight: 400;
+}
+.tag{
+    padding:0%;
+    margin: 0%;
+    width: 100%;
+    text-align: right;
+    
+        font-size: 17px;
+    font-weight: 400;
+}
+.cont-left{
+    width: 50%;
+}
+.cont2-left{
+    width: 50%;
+}
+.cont-right{
+    width: 50%;
+}
+/* // addsrudet */
+
+.addst {
+    width: 30%;
+    opacity: 1 !important;
+    margin: 10% 35%;
+    border: 1px solid #995d9b;
+    padding: 0% 0% 2%;
+    z-index: 1;
+    position: absolute;
+    background: #fff;
+    border-radius: 5px;
+}
+.addst-dv {
+    justify-content: space-between;
+    display: grid;
+    /* grid-template-rows: 50% 50%; */
+    padding: 1% 5%;
+    grid-gap: 2%;
+    grid-gap: 0%;
+    gap: 1%;
+    grid-template-columns: 49% 49%;
+}
+.close{
+    text-align: end;
+    padding: 2% 2%;
+}
