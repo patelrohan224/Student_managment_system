@@ -9,3 +9,11 @@ Links
 Student Management System where admin can add students, contests, and filter and sort data. authentication, authorization, jsonWebToken, bcryptjs.
 About
 Student Management System where admin can add students, contests, and filter and sort data
+
+
+</br>
+<h1>Run on local</h1>
+
+<p>npm i</p>
+<p>npm start for frontend</p>
+<p>npm start for backend</p>
