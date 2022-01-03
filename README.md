@@ -1,4 +1,4 @@
-[link] https://students-mng-rohanpatel.vercel.app/
+https://students-mng-rohanpatel.vercel.app/
 
 
 # Student_managment_system
