@@ -1,4 +1,4 @@
-Frontend https://students-mng-rohanpatel.vercel.app/
+<a href="https://students-mng-rohanpatel.vercel.app/" target="_blank" >Frontend</a>
 </br>
 backend https://ssmgmntsystm.herokuapp.com/
 
